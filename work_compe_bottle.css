@@ -162,7 +162,7 @@ header, footer {
 }
 .ad__img div img {
   margin: 0 auto;
-  width: 90%;
+  width: 50%;
 }
 .ad__img ul {
   display: flex;
